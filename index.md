@@ -1,5 +1,5 @@
 ---
-Hi my name is kesh!
+theme: minima
 title: Welcome to my blog
 ---
 
